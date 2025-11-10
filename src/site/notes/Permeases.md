@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Permeases/"}
+{"dg-publish":true,"permalink":"/Permeases/","dgPassFrontmatter":true}
 ---
 
 Membrane proteins also called as Channel Proteins and Carrier Proteins.

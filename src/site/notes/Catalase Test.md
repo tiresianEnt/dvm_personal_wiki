@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Catalase Test/"}
+{"dg-publish":true,"permalink":"/Catalase Test/","dgPassFrontmatter":true}
 ---
 
 Can the bacteria break down $H_2O_2$ into #lookinto ?

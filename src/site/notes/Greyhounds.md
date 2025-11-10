@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Greyhounds/"}
+{"dg-publish":true,"permalink":"/Greyhounds/","dgPassFrontmatter":true}
 ---
 
 Type of dog breed

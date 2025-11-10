@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Prions/"}
+{"dg-publish":true,"permalink":"/Prions/","dgPassFrontmatter":true}
 ---
 
 Misfolded proteins and has no DNA or RNA.

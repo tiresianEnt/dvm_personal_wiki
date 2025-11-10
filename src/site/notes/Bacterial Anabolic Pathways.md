@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bacterial Anabolic Pathways/"}
+{"dg-publish":true,"permalink":"/Bacterial Anabolic Pathways/","dgPassFrontmatter":true}
 ---
 
 ANABOLIC THEYRE ALL SYNTHESIS

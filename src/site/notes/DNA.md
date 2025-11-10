@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DNA/"}
+{"dg-publish":true,"permalink":"/DNA/","dgPassFrontmatter":true}
 ---
 
 Also called dioxyribonucleic acid

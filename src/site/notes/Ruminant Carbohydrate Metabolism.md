@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ruminant Carbohydrate Metabolism/"}
+{"dg-publish":true,"permalink":"/Ruminant Carbohydrate Metabolism/","dgPassFrontmatter":true}
 ---
 
 [[Volatile Fatty Acids\|Volatile Fatty Acids]]

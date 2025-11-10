@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proton Motive Force/"}
+{"dg-publish":true,"permalink":"/Proton Motive Force/","dgPassFrontmatter":true}
 ---
 
 Electrochemical gradient of $H^+$ ions across the [[Cell Membrane 🤓\|Cell Membrane 🤓]]

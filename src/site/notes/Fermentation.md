@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Fermentation/"}
+{"dg-publish":true,"permalink":"/Fermentation/","dgPassFrontmatter":true}
 ---
 
 Used by [[Anaerobes\|anaerobes]] to produce [[ATP\|ATP]]

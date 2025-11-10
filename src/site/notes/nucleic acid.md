@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nucleic acid/"}
+{"dg-publish":true,"permalink":"/nucleic acid/","dgPassFrontmatter":true}
 ---
 
 ##### Application

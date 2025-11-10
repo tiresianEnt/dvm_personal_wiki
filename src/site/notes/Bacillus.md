@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bacillus/"}
+{"dg-publish":true,"permalink":"/Bacillus/","dgPassFrontmatter":true}
 ---
 
 A bacterial genus.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Immunoprophylaxis/"}
+{"dg-publish":true,"permalink":"/Immunoprophylaxis/","dgPassFrontmatter":true}
 ---
 
 #### Nature

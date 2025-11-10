@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Litmus Milk Test/"}
+{"dg-publish":true,"permalink":"/Litmus Milk Test/","dgPassFrontmatter":true}
 ---
 
 

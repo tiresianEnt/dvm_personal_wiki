@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Cardinal Temperatures/"}
+{"dg-publish":true,"permalink":"/Cardinal Temperatures/","dgPassFrontmatter":true}
 ---
 
 Minimum - Threshold before [[Membrane Gelling\|Membrane Gelling]]

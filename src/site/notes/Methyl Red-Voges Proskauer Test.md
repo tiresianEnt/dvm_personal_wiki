@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Methyl Red-Voges Proskauer Test/"}
+{"dg-publish":true,"permalink":"/Methyl Red-Voges Proskauer Test/","dgPassFrontmatter":true}
 ---
 
 it just combines the [[Methyl Red Test\|Methyl Red Test]] and the [[Voges-Proskauer Test\|Voges-Proskauer Test]] man. Idk what else to say.

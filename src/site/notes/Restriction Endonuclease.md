@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Restriction Endonuclease/"}
+{"dg-publish":true,"permalink":"/Restriction Endonuclease/","dgPassFrontmatter":true}
 ---
 
 Can recognize foreign DNA and break phosphodiester bonds.

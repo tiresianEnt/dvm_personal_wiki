@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Nocardia spp./"}
+{"dg-publish":true,"permalink":"/Nocardia spp./","dgPassFrontmatter":true}
 ---
 
 Nocardia spp. is a bacterial [[Genus\|genus]] that is related to [[Rhodococcus sp.\|Rhodococcus sp.]]. As [[Prokaryote\|prokaryotes]], it has branching filaments.

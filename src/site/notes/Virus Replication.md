@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Virus Replication/"}
+{"dg-publish":true,"permalink":"/Virus Replication/","dgPassFrontmatter":true}
 ---
 
 Eclipse Period

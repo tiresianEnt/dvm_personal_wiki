@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Aerobes/"}
+{"dg-publish":true,"permalink":"/Aerobes/","dgPassFrontmatter":true}
 ---
 
 #### Nature

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/DNA Cloning/"}
+{"dg-publish":true,"permalink":"/DNA Cloning/","dgPassFrontmatter":true}
 ---
 
 The process of taking a [[Gene\|Gene]] from a host and propagating it in a different host organism.

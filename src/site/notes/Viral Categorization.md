@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Viral Categorization/"}
+{"dg-publish":true,"permalink":"/Viral Categorization/","dgPassFrontmatter":true}
 ---
 
 [[Capsid Symmetry\|Capsid Symmetry]]

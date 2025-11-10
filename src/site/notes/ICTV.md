@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ICTV/"}
+{"dg-publish":true,"permalink":"/ICTV/","dgPassFrontmatter":true}
 ---
 
 	

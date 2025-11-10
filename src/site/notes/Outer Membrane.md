@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Outer Membrane/"}
+{"dg-publish":true,"permalink":"/Outer Membrane/","dgPassFrontmatter":true}
 ---
 
 Semi-permeable and selectively permeable, usually found in [[Gram Negative\|Gram Negative]] Bacteria.

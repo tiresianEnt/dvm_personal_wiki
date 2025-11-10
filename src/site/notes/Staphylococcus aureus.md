@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Staphylococcus aureus/"}
+{"dg-publish":true,"permalink":"/Staphylococcus aureus/","dgPassFrontmatter":true}
 ---
 
 

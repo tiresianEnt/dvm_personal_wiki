@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Coagulase Test/"}
+{"dg-publish":true,"permalink":"/Coagulase Test/","dgPassFrontmatter":true}
 ---
 
 A test used to identify [[Staphylococcus aureus\|Staphylococcus aureus]], a [[Bacteria\|microorganism]] that produces [[coagulase\|coagulase]].

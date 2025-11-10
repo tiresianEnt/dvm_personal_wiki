@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Active Transport/"}
+{"dg-publish":true,"permalink":"/Active Transport/","dgPassFrontmatter":true}
 ---
 
 A type of [[Diffusion\|Diffusion]] that goes against the [[Concentration Gradient\|Concentration Gradient]], and thus needs [[ATP\|ATP]] and [[Permeases\|Permeases]].

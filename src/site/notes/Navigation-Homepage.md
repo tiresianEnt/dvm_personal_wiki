@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Navigation-Homepage/","tags":["gardenEntry"]}
+{"dg-home":"true","dg-publish":true,"permalink":"/Navigation-Homepage/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 This is where I put almost all my vetmed notes in the form of a personal wiki. If you don't find what you're looking for, you know where to find me.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Presence of Envelope/"}
+{"dg-publish":true,"permalink":"/Presence of Envelope/","dgPassFrontmatter":true}
 ---
 
 Determines the stability of the [[Virus\|Virus]]

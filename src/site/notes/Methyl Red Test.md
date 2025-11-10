@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Methyl Red Test/"}
+{"dg-publish":true,"permalink":"/Methyl Red Test/","dgPassFrontmatter":true}
 ---
 
 Does your bacteria do [[Mixed acid fermentation\|Mixed acid fermentation]] when fed with glucose?

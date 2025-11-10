@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Narrow Antibiotic Spectrum of Activity/"}
+{"dg-publish":true,"permalink":"/Narrow Antibiotic Spectrum of Activity/","dgPassFrontmatter":true}
 ---
 
 #### Nature

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/UK/"}
+{"dg-publish":true,"permalink":"/UK/","dgPassFrontmatter":true}
 ---
 
 United Kingdom.

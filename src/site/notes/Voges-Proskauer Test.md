@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Voges-Proskauer Test/"}
+{"dg-publish":true,"permalink":"/Voges-Proskauer Test/","dgPassFrontmatter":true}
 ---
 
 #### Application

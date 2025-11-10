@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Periplasm/"}
+{"dg-publish":true,"permalink":"/Periplasm/","dgPassFrontmatter":true}
 ---
 
 The spaces between the [[Outer Membrane\|Outer Membrane]], [[Peptidoglycan Cell Wall\|Peptidoglycan Cell Wall]], and the [[Cell Membrane 🤓\|Cell Membrane 🤓]]. This is usually found in [[Gram Negative\|Gram Negative]] Bacteria.

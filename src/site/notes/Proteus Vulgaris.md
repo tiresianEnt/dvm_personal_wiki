@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Proteus Vulgaris/"}
+{"dg-publish":true,"permalink":"/Proteus Vulgaris/","dgPassFrontmatter":true}
 ---
 
 

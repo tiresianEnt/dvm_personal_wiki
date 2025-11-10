@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Gram Stain/"}
+{"dg-publish":true,"permalink":"/Gram Stain/","dgPassFrontmatter":true}
 ---
 
 dude idk

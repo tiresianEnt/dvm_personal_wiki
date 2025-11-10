@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Capsid/"}
+{"dg-publish":true,"permalink":"/Capsid/","dgPassFrontmatter":true}
 ---
 
 Encases the [[nucleic acid\|nucleic acid]], from the Latin word capsa (box).

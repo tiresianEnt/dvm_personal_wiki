@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Dry off Period/"}
+{"dg-publish":true,"permalink":"/Dry off Period/","dgPassFrontmatter":true}
 ---
 
 # In Cows

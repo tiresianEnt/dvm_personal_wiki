@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/RFLP/"}
+{"dg-publish":true,"permalink":"/RFLP/","dgPassFrontmatter":true}
 ---
 
 	Also called Restriction Fragment Length Polymorphism.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Group Translocation/"}
+{"dg-publish":true,"permalink":"/Group Translocation/","dgPassFrontmatter":true}
 ---
 
 A type of [[Diffusion\|Diffusion]] that changes the chemical component of the molecule transported using [[Phosphoenol Pyruvate\|Phosphoenol Pyruvate]] as an energy source.

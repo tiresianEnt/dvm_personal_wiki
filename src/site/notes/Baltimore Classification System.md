@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Baltimore Classification System/"}
+{"dg-publish":true,"permalink":"/Baltimore Classification System/","dgPassFrontmatter":true}
 ---
 
 Categorize viruses based on genome and replication strategy.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Viral Genome/"}
+{"dg-publish":true,"permalink":"/Viral Genome/","dgPassFrontmatter":true}
 ---
 
 Carries genes necessary to invade host cell and redirect cell activity to make new viruses

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Micronutrients/"}
+{"dg-publish":true,"permalink":"/Micronutrients/","dgPassFrontmatter":true}
 ---
 
 Substances the body needs in small amounts.

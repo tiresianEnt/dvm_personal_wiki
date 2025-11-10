@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Escherichia Coli/"}
+{"dg-publish":true,"permalink":"/Escherichia Coli/","dgPassFrontmatter":true}
 ---
 
 

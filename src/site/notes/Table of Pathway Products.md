@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Table of Pathway Products/"}
+{"dg-publish":true,"permalink":"/Table of Pathway Products/","dgPassFrontmatter":true}
 ---
 
 

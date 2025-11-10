@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Navigation-VMCB 122 2nd Exam Species List/"}
+{"dg-publish":true,"permalink":"/Navigation-VMCB 122 2nd Exam Species List/","dgPassFrontmatter":true}
 ---
 
 ## Pasteurella

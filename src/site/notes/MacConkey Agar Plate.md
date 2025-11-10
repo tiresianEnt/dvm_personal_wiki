@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/MacConkey Agar Plate/"}
+{"dg-publish":true,"permalink":"/MacConkey Agar Plate/","dgPassFrontmatter":true}
 ---
 
 Is a [[Differential Media\|differential media]] you can use to see if the bacteria can [[Lactose Fermentation\|ferment lactose]]

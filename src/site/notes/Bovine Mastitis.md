@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Bovine Mastitis/"}
+{"dg-publish":true,"permalink":"/Bovine Mastitis/","dgPassFrontmatter":true}
 ---
 

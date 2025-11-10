@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Antibiotic Mechanism of Action/"}
+{"dg-publish":true,"permalink":"/Antibiotic Mechanism of Action/","dgPassFrontmatter":true}
 ---
 
 Way of classifying antibiotics based on the mechanism of action of a microorganism it targets. It would either work against:

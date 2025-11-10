@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Genus/"}
+{"dg-publish":true,"permalink":"/Genus/","dgPassFrontmatter":true}
 ---
 

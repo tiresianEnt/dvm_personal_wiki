@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ATP/"}
+{"dg-publish":true,"permalink":"/ATP/","dgPassFrontmatter":true}
 ---
 
 Adenosine Triphosphate

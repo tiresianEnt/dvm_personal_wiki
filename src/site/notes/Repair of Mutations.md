@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Repair of Mutations/"}
+{"dg-publish":true,"permalink":"/Repair of Mutations/","dgPassFrontmatter":true}
 ---
 
 To find damaged bases: Enzymatic System

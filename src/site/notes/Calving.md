@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/Calving/"}
+{"dg-publish":true,"permalink":"/Calving/","dgPassFrontmatter":true}
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Phosphoenol Pyruvate/"}
+{"dg-publish":true,"permalink":"/Phosphoenol Pyruvate/","dgPassFrontmatter":true}
 ---
 
 also called PEP

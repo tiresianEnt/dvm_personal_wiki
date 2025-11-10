@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Ligases/"}
+{"dg-publish":true,"permalink":"/Ligases/","dgPassFrontmatter":true}
 ---
 
 Enzyme used to seal the [[Sticky Ends\|Sticky Ends]] together during [[Genetic Engineering\|Genetic Engineering]] after they were cut by[[Restriction Endonuclease\|Restriction Endonuclease]]. This is done by joining the [[Sugar Phosphate Ion Bonds\|Sugar Phosphate Ion Bonds]].

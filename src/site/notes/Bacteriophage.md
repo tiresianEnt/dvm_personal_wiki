@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Bacteriophage/"}
+{"dg-publish":true,"permalink":"/Bacteriophage/","dgPassFrontmatter":true}
 ---
 
 Viruses that infect [[Bacteria\|Bacteria]]
