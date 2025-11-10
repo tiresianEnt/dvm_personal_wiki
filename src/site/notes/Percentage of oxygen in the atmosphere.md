@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/percentage-of-oxygen-in-the-atmosphere/"}
+{"dg-publish":true,"permalink":"/Percentage of oxygen in the atmosphere/"}
 ---
 
 21%

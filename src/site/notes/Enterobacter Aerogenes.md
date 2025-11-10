@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enterobacter-aerogenes/"}
+{"dg-publish":true,"permalink":"/Enterobacter Aerogenes/"}
 ---
 
 

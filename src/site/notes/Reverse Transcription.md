@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/reverse-transcription/"}
+{"dg-publish":true,"permalink":"/Reverse Transcription/"}
 ---
 
 Literally the reverse of [[Transcription\|Transcription]]

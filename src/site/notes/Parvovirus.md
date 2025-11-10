@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/parvovirus/"}
+{"dg-publish":true,"permalink":"/Parvovirus/"}
 ---
 
 Usually in puppies

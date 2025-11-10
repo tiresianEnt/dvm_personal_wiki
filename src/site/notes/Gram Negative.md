@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gram-negative/"}
+{"dg-publish":true,"permalink":"/Gram Negative/"}
 ---
 
 A result in the [[Gram Stain\|Gram Stain]] technique that means the microorganism has a thin [[Peptidoglycan Cell Wall\|Peptidoglycan Cell Wall]], sandwiched by the [[Cell Membrane 🤓\|Cell Membrane 🤓]] and the [[Outer Membrane\|Outer Membrane]].

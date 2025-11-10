@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transposons/"}
+{"dg-publish":true,"permalink":"/Transposons/"}
 ---
 
 Also called jumping genes. As transposable genes they scramble the entire sequence jevilstyle. 

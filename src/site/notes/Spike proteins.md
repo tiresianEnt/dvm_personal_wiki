@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spike-proteins/"}
+{"dg-publish":true,"permalink":"/Spike proteins/"}
 ---
 
 glycoproteins needed to attach to host cell

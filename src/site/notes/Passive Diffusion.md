@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/passive-diffusion/"}
+{"dg-publish":true,"permalink":"/Passive Diffusion/"}
 ---
 
 Also called simple diffusion. This doesn't use up ATP and the particles can pass through freely.

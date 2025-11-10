@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/carbohydrate-fermentation-test/"}
+{"dg-publish":true,"permalink":"/Carbohydrate Fermentation Test/"}
 ---
 
 Determines whether the organism can ferment a given carbohydrate, degrade amino acids, and if it produces a gaseous end product.

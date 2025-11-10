@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dry-off-period/"}
+{"dg-publish":true,"permalink":"/Dry off Period/"}
 ---
 
 # In Cows

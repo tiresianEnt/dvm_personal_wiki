@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/erysepelothrix/"}
+{"dg-publish":true,"permalink":"/Erysepelothrix/"}
 ---
 
 

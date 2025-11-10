@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lipid-synthesis/"}
+{"dg-publish":true,"permalink":"/Lipid Synthesis/"}
 ---
 
 Needs Fatty Acids and Glycerol.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cell-envelope/"}
+{"dg-publish":true,"permalink":"/Cell Envelope/"}
 ---
 
 Comprises of the [[Cell Membrane 🤓\|Cell Membrane 🤓]], [[Peptidoglycan Cell Wall\|Peptidoglycan Cell Wall]], and the [[Outer Membrane\|Outer Membrane]], if bacteria is [[Gram Negative\|Gram Negative]].

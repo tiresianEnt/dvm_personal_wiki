@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/polymerase-chain-reaction/"}
+{"dg-publish":true,"permalink":"/Polymerase Chain Reaction/"}
 ---
 
 The process of increasing the amount of [[DNA\|DNA]] without more expensive or complicated techniques. It has two cycles.

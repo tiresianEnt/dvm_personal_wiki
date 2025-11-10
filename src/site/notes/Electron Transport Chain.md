@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/electron-transport-chain/"}
+{"dg-publish":true,"permalink":"/Electron Transport Chain/"}
 ---
 
 Generates the [[Proton Motive Force\|Proton Motive Force]]

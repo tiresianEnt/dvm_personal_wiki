@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/uk/"}
+{"dg-publish":true,"permalink":"/UK/"}
 ---
 
 United Kingdom.

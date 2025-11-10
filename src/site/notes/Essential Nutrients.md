@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/essential-nutrients/"}
+{"dg-publish":true,"permalink":"/Essential Nutrients/"}
 ---
 
 $C, N_2, O_2, S, H_2, and\ P$

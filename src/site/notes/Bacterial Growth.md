@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bacterial-growth/"}
+{"dg-publish":true,"permalink":"/Bacterial Growth/"}
 ---
 
 ###### Factors that affect growth:

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/genus/"}
+{"dg-publish":true,"permalink":"/Genus/"}
 ---
 

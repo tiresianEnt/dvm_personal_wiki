@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/close-up-period-bovine-management/"}
+{"dg-publish":true,"permalink":"/Close-Up Period (Bovine Management)/"}
 ---
 
 It happens two weeks before [[Calving\|calving]].

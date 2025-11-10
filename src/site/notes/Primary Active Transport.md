@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/primary-active-transport/"}
+{"dg-publish":true,"permalink":"/Primary Active Transport/"}
 ---
 
 Uses energy from [[ATP Hydrolysis\|ATP Hydrolysis]] to transport particles against the gradient, through the help of the [[ATP Binding Cassettes\|ATP Binding Cassettes]].

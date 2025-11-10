@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oxidation-fermentation-test/"}
+{"dg-publish":true,"permalink":"/Oxidation-Fermentation Test/"}
 ---
 
 There's oil to see if organism can ferment

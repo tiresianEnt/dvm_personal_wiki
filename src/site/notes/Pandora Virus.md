@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pandora-virus/"}
+{"dg-publish":true,"permalink":"/Pandora Virus/"}
 ---
 
 New virus discovered in the Arctic

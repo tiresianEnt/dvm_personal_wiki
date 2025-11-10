@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/proteus-vulgaris/"}
+{"dg-publish":true,"permalink":"/Proteus Vulgaris/"}
 ---
 
 

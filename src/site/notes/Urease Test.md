@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/urease-test/"}
+{"dg-publish":true,"permalink":"/Urease Test/"}
 ---
 
 Can the organism produce the urease enzyme? If yes, medium turns pink. If no, medium remains orange

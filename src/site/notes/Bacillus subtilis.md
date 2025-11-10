@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bacillus-subtilis/"}
+{"dg-publish":true,"permalink":"/Bacillus subtilis/"}
 ---
 
 	

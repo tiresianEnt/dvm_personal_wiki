@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/viral-envelope/"}
+{"dg-publish":true,"permalink":"/Viral Envelope/"}
 ---
 
 Contains viral [[Spike proteins\|Spike proteins]]/[[glycoproteins\|glycoproteins]]

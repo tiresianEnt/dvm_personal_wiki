@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ruminant-carbohydrate-metabolism/"}
+{"dg-publish":true,"permalink":"/Ruminant Carbohydrate Metabolism/"}
 ---
 
 [[Volatile Fatty Acids\|Volatile Fatty Acids]]

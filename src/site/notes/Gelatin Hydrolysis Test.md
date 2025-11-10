@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gelatin-hydrolysis-test/"}
+{"dg-publish":true,"permalink":"/Gelatin Hydrolysis Test/"}
 ---
 
 #### Results

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/calf-management/"}
+{"dg-publish":true,"permalink":"/Calf Management/"}
 ---
 
 “Record everything”

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/paracetamol/"}
+{"dg-publish":true,"permalink":"/Paracetamol/"}
 ---
 
 #### Application

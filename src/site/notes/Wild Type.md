@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/wild-type/"}
+{"dg-publish":true,"permalink":"/Wild Type/"}
 ---
 
 Strain of the species that has not mutated

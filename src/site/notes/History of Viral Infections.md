@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/history-of-viral-infections/"}
+{"dg-publish":true,"permalink":"/History of Viral Infections/"}
 ---
 
 Pockmarks in Egyptian Mummies

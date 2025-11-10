@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mutation/"}
+{"dg-publish":true,"permalink":"/Mutation/"}
 ---
 
 Change in DNA

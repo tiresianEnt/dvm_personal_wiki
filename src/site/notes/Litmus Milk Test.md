@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/litmus-milk-test/"}
+{"dg-publish":true,"permalink":"/Litmus Milk Test/"}
 ---
 
 

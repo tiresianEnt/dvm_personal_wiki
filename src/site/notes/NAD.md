@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nad/"}
+{"dg-publish":true,"permalink":"/NAD/"}
 ---
 
 Also known as Nicotinamide Adenine Dinucleotide

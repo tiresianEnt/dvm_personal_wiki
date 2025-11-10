@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/precursor-metabolites/"}
+{"dg-publish":true,"permalink":"/Precursor metabolites/"}
 ---
 
 [[Intermediates\|Intermediates]] of [[Catabolism\|catabolism]] that can be used for [[Anabolism\|anabolism]]

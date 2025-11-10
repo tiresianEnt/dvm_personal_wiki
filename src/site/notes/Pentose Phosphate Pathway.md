@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pentose-phosphate-pathway/"}
+{"dg-publish":true,"permalink":"/Pentose Phosphate Pathway/"}
 ---
 
 Parallel pathway to [[Glycolysis\|Glycolysis]]

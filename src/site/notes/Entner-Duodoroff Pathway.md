@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/entner-duodoroff-pathway/"}
+{"dg-publish":true,"permalink":"/Entner-Duodoroff Pathway/"}
 ---
 
 Catabolizes [[Glucose\|Glucose]] to [[Pyruvate\|Pyruvate]] but with different sets of [[Enzymes\|Enzymes]] compared to [[Gluconeogenesis\|Gluconeogenesis]].

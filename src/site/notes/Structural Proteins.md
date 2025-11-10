@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/structural-proteins/"}
+{"dg-publish":true,"permalink":"/Structural Proteins/"}
 ---
 
 ###### In viruses

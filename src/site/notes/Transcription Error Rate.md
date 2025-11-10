@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/transcription-error-rate/"}
+{"dg-publish":true,"permalink":"/Transcription Error Rate/"}
 ---
 
 In DNA: one error in each $10^7$ nucleotides

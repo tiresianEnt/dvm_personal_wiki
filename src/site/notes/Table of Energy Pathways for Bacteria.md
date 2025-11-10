@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/table-of-energy-pathways-for-bacteria/"}
+{"dg-publish":true,"permalink":"/Table of Energy Pathways for Bacteria/"}
 ---
 
 

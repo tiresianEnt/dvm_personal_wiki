@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/tolerant-aerobes/"}
+{"dg-publish":true,"permalink":"/Tolerant Aerobes/"}
 ---
 

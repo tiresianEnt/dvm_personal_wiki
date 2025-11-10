@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cytoplasmic-membrane/"}
+{"dg-publish":true,"permalink":"/Cytoplasmic membrane/"}
 ---
 
 Is made up of the [[Phospolipid bilayer\|Phospolipid bilayer]] and is semi-permeable, regulating what substances can enter the cell.

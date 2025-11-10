@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gene-recombination/"}
+{"dg-publish":true,"permalink":"/Gene Recombination/"}
 ---
 
 Recombining DNA from one gene of an organism to another organism.

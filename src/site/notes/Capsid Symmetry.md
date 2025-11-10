@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/capsid-symmetry/"}
+{"dg-publish":true,"permalink":"/Capsid Symmetry/"}
 ---
 
 Defines the basic viral shape

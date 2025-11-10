@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gel-electrophoresis/"}
+{"dg-publish":true,"permalink":"/Gel Electrophoresis/"}
 ---
 
 Process that produces a readable pattern of [[DNA Fragments\|DNA Fragments]].

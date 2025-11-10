@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/fad/"}
+{"dg-publish":true,"permalink":"/FAD/"}
 ---
 
 Also known as Flavin Adenine Dinucleotide

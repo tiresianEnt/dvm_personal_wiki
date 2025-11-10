@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cloning-vectors/"}
+{"dg-publish":true,"permalink":"/Cloning Vectors/"}
 ---
 
 How [[DNA\|DNA]] is injected into host cells for replication.

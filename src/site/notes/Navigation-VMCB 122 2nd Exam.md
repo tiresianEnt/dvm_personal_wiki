@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/navigation-vmcb-122-2nd-exam/"}
+{"dg-publish":true,"permalink":"/Navigation-VMCB 122 2nd Exam/"}
 ---
 
 ## Keywords

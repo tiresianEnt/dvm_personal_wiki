@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/triple-sugar-iron-test/"}
+{"dg-publish":true,"permalink":"/Triple Sugar Iron Test/"}
 ---
 
 Tests fermentation for [[Glucose\|Glucose]], [[Lactose\|Lactose]], and [[Sucrose\|Sucrose]] as well as [[Iron\|Iron]]. 

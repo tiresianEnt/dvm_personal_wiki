@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/enzyme-classification/"}
+{"dg-publish":true,"permalink":"/Enzyme Classification/"}
 ---
 
 

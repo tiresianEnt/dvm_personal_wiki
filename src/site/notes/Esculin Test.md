@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/esculin-test/"}
+{"dg-publish":true,"permalink":"/Esculin Test/"}
 ---
 
 Can the bacteria hydrolyze esculin in the presence of bile?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pseudomonas-aeruginosa/"}
+{"dg-publish":true,"permalink":"/Pseudomonas Aeruginosa/"}
 ---
 
 

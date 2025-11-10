@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/broad-antibiotic-spectrum-of-activity/"}
+{"dg-publish":true,"permalink":"/Broad Antibiotic Spectrum of Activity/"}
 ---
 
 #### Nature

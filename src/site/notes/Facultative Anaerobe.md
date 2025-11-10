@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/facultative-anaerobe/"}
+{"dg-publish":true,"permalink":"/Facultative Anaerobe/"}
 ---
 
 

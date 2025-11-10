@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/toxic-derivatives-of-oxygen/"}
+{"dg-publish":true,"permalink":"/Toxic Derivatives of Oxygen/"}
 ---
 
 

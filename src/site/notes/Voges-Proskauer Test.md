@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/voges-proskauer-test/"}
+{"dg-publish":true,"permalink":"/Voges-Proskauer Test/"}
 ---
 
 #### Application

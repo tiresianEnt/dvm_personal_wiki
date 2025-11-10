@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/calving/"}
+{"dg-publish":true,"permalink":"/Calving/"}
 ---
 

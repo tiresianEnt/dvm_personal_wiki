@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/virus/"}
+{"dg-publish":true,"permalink":"/Virus/"}
 ---
 
 Latin origin is the word 'poison'

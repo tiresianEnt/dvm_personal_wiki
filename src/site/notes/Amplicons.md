@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/amplicons/"}
+{"dg-publish":true,"permalink":"/Amplicons/"}
 ---
 
 Fragment of [[DNA\|DNA]] or [[RNA\|RNA]] that has gone through [[Replication\|Replication]] or [[Amplification\|Amplification]]

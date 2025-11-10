@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/simmons-citrate-test/"}
+{"dg-publish":true,"permalink":"/Simmons Citrate Test/"}
 ---
 
 Can the organism utilize ammonium as source of nitrogen, and sodium citrate as source of carbon?

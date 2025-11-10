@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/nutrients/"}
+{"dg-publish":true,"permalink":"/Nutrients/"}
 ---
 
 Chemical substances needed by the body.

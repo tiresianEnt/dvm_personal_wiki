@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/ear-tagging/"}
+{"dg-publish":true,"permalink":"/Ear Tagging/"}
 ---
 

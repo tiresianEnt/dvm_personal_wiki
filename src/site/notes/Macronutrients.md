@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/macronutrients/"}
+{"dg-publish":true,"permalink":"/Macronutrients/"}
 ---
 
 Substances the body needs in large amounts.

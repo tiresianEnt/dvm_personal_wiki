@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anaerobes/"}
+{"dg-publish":true,"permalink":"/Anaerobes/"}
 ---
 
 Oxygen is toxic to these bacteria.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/streptococcus-spp/"}
+{"dg-publish":true,"permalink":"/Streptococcus spp./"}
 ---
 
 Colonies usually look small, round, and has a gray-white to white color.

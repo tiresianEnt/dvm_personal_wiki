@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/antimicrobial-resistance/"}
+{"dg-publish":true,"permalink":"/Antimicrobial Resistance/"}
 ---
 

@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/grass-tetani/"}
+{"dg-publish":true,"permalink":"/Grass tetani/"}
 ---
 

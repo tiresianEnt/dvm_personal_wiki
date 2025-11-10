@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rabies-virus/"}
+{"dg-publish":true,"permalink":"/Rabies Virus/"}
 ---
 
 Bullet Shape
